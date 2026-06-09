@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Recovery Tools
+Comment=Data Recovery Tool Suite
+Exec=gnome-terminal --working-directory=/path/to/rsync-recovery -- ./recovery_menu.sh
+Path=/path/to/rsync-recovery
+Icon=drive-harddisk
+Terminal=false
+Categories=System;Utility;

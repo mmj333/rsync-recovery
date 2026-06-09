@@ -1,0 +1,10 @@
+# Backup files
+*.backup
+*.backup-*
+
+# Duplicate/old copies
+*copy*.sh
+*(copy)*
+
+# Claude Code internal files
+.claude/
